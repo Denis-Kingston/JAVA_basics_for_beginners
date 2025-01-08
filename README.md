@@ -41,7 +41,7 @@ This repository contains a collection of Java projects designed to help you lear
     * Object-Oriented Programming: creating a `Task` class with attributes like description and completion status.
     * Basic user interface design for a command-line application.
 
-**5. [Add More Projects Here]**
+and many more........................
 
 **Contributing**
 
